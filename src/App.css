@@ -1,0 +1,29 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.nav-link {
+  text-decoration: none;
+}
+
+.active {
+  background-color: aliceblue;
+  color: black;
+}
+.img {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.info-recipe {
+  width: 400px;
+  background: #e2e6e9;
+  padding: 7px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.img-thumbnail {
+  width: 200px;
+  height: 200px;
+  border-image: none;
+}
